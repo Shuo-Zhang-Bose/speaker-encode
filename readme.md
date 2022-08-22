@@ -6,3 +6,6 @@ The model is based on the deep learning model from facebook (state of the art).
 
 # usage
 see example: ```encoder_playground.ipynb```. 
+
+# slides
+https://bosecorp-my.sharepoint.com/:p:/g/personal/sz1033426_bose_com/ERtZxU4IzaVKpaHFV63CGkoB5jvu1PHpc1yhuYp2jaqiyw?e=2bMqmE
